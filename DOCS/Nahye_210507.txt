@@ -1,0 +1,8 @@
+Back_mG_1.fq.gz
+Back_mG_2.fq.gz
+Back_mN_1.fq.gz
+Back_mN_2.fq.gz
+Back_tG_1.fq.gz
+Back_tG_2.fq.gz
+Back_tN_1.fq.gz
+Back_tN_2.fq.gz
